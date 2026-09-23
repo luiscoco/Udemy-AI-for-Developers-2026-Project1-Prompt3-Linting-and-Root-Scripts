@@ -1,4 +1,4 @@
-# Prompt 3 ESLint 9 Flat Config & Root Scripts
+# ESLint Flat Config & Root Scripts
 
 This README walks through what was done in this exercise and why, step by step,
 so you can reproduce (or explain) it yourself.
